@@ -21,3 +21,4 @@ PASSOS PARA USAR:
  - Abrir o cmd, colocar localização da pasta e digitar "py edge.py"
  - Recomendo entre 50 - 60 de FOV e 0.3 - 0.6 de SPEED, o SPEED vai depender da sua sensibilidade em jogo, exemplo: 0.2 1600 dpi (O DPI TEM QUE SER 1600), você pode usar 50 de FOV e 0.5 de speed.
  - SEJA FELIZ 
+
