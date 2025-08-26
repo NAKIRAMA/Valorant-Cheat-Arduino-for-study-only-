@@ -11,3 +11,13 @@ Além disso:
 - Possui configuração de velocidade e sensibilidade de ajuste da mira.
 
 OBS: Só funciona para borda roxa e em mouses logitech (talvez funcione em outros, mas o código em C++ foi feito exclusivamente para mouses ligitech)
+
+
+PASSOS PARA USAR:
+
+1 - Ter um ARDUINO e um USB HOST SHIELD
+2 - Passar todo o código C++ para o arduino, com o arduino.ide
+3 - Ter python no PC e posteriormente baixar todas as bibliotecas (imports) condizentes com o código em python
+4 - Abrir o cmd, colocar localização da pasta e digitar "py edge.py"
+5 - Recomendo entre 50 - 60 de FOV e 0.3 - 0.6 de SPEED, o SPEED vai depender da sua sensibilidade em jogo, exemplo: 0.2 1600 dpi (O DPI TEM QUE SER 1600), você pode usar 50 de FOV e 0.5 de speed.
+6 - SEJA FELIZ 
