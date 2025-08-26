@@ -15,9 +15,9 @@ OBS: Só funciona para borda roxa e em mouses logitech (talvez funcione em outro
 
 PASSOS PARA USAR:
 
-1 - Ter um ARDUINO e um USB HOST SHIELD
-2 - Passar todo o código C++ para o arduino, com o arduino.ide
-3 - Ter python no PC e posteriormente baixar todas as bibliotecas (imports) condizentes com o código em python
-4 - Abrir o cmd, colocar localização da pasta e digitar "py edge.py"
-5 - Recomendo entre 50 - 60 de FOV e 0.3 - 0.6 de SPEED, o SPEED vai depender da sua sensibilidade em jogo, exemplo: 0.2 1600 dpi (O DPI TEM QUE SER 1600), você pode usar 50 de FOV e 0.5 de speed.
-6 - SEJA FELIZ 
+ - Ter um ARDUINO e um USB HOST SHIELD
+ - Passar todo o código C++ para o arduino, com o arduino.ide
+ - Ter python no PC e posteriormente baixar todas as bibliotecas (imports) condizentes com o código em python
+ - Abrir o cmd, colocar localização da pasta e digitar "py edge.py"
+ - Recomendo entre 50 - 60 de FOV e 0.3 - 0.6 de SPEED, o SPEED vai depender da sua sensibilidade em jogo, exemplo: 0.2 1600 dpi (O DPI TEM QUE SER 1600), você pode usar 50 de FOV e 0.5 de speed.
+ - SEJA FELIZ 
